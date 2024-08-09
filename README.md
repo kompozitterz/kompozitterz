@@ -35,7 +35,7 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kompozitterz&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kompozitterz&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kompozitterz&layout=donut-vertical)](https://github.com/kompozitterz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kompozitterz&layout=donut-vertical)](https://github.com/kompozitterz/github-readme-stats)
+
 

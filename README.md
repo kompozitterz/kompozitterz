@@ -6,10 +6,6 @@
 - 😄 Pronouns: He/Him
 - 🎉 I've festnoz'd in Brittany on New Year's Eve!
 
-
-
-GITHUB ICONS 
-
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>

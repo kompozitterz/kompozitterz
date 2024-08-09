@@ -33,12 +33,16 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali Linux" title="Kali Linux"/></code>
 </div>
-<p align="center" justify="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kompozitterz&show_icons=true&theme=onedark" alt="Anurag's GitHub stats" />
-	<a href="https://github.com/kompozitterz/github-readme-stats">
+</p>
+
+<p align="center">
+  <a href="https://github.com/kompozitterz/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kompozitterz&layout=donut-vertical" alt="Top Langs" />
   </a>
 </p>
+
 
 
 

@@ -2,8 +2,6 @@
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning blockchain & cybersecurity
 - 💞️ I’m looking to collaborate on innovative and eco-responsible projects
-- 😄 Pronouns: He/Him
-- 🎉 I've festnoz'd in Brittany on New Year's Eve!
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kevin,
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning blockchain & cybersecurity
-- 💞️ I’m looking to collaborate on innovative and eco-responsible projects
+- 🌱 I’m currently learning  web & app development
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" title="Bash"/></code>

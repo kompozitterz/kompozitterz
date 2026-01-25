@@ -1,6 +1,6 @@
 Hi, I’m Kevin, <br>
 I’m a web & application junior developer <br>
-and i'm learning cybersécurity <br>
+and i'm learning cybersecurity <br>
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>

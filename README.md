@@ -1,4 +1,4 @@
-Hi, I’m Kevin,
+Hi, I’m Kevin, <br>
 I’m interested in new technologies
 I’m currently learning  web & app development
 

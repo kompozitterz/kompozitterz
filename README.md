@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kevin,
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning  web & app development
+Hi, I’m Kevin,
+I’m interested in new technologies
+I’m currently learning  web & app development
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>

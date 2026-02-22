@@ -1,4 +1,3 @@
-Hi, I’m Kevin, <br>
 I’m a web & application junior developer <br>
 
 <div align="center">
